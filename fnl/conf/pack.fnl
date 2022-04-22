@@ -1,5 +1,5 @@
 (import-macros {: pack!
-                : unpack!} :conf.macro.pack)
+                : unpack!} :conf.macro.pack-macros)
 
 (pack! "udayvir-singh/tangerine.nvim")
 
